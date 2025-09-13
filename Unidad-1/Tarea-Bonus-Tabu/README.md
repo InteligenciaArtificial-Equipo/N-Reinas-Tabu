@@ -4,8 +4,8 @@ Leguaje de programacion Scala3
 Solucion Funcional Pura
 
 ## Integrantes
-Peñuelas López Luis Antonio
-Peraza Medina Eliezer Daniel
+- Peñuelas López Luis Antonio
+- Peraza Medina Eliezer Daniel
 
 ## Explicacion
 
