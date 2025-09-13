@@ -85,3 +85,13 @@ def randomNeighbors(board: List[Int], tabuList: List[(Int, Int)], n: Int): List[
         indices.filterNot(x => tabuList.contains(x)).take(n).map { case (i, j) => (i, j, swap(board, i, j)) }.toList
     }
 ```
+
+## Ejecucion
+
+### Para ejecutar
+``` bash
+scala-cli run NQueensTabu.scala
+```
+
+### Evidencia de ejecucion
+<img width="630" height="466" alt="image" src="https://github.com/user-attachments/assets/bf36071f-cc43-4637-9622-5b1ed881fe7f" />
